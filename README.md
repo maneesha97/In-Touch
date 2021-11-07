@@ -1,4 +1,4 @@
-# seller
+# InTouch
 
 A new Flutter project.
 
